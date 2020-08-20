@@ -1,2 +1,2 @@
 # snakej
-An implementation of Snake Game in Java
+Just another implementation of the Snake Game in Java.
